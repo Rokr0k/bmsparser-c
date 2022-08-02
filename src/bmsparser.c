@@ -1,4 +1,4 @@
-#include <bmsparser/bmsparser.h>
+#include <bmsparser.h>
 #include <bmsparser/convert.h>
 #include <stdio.h>
 #include <stdlib.h>
